@@ -11,11 +11,11 @@
   <link rel="stylesheet" type="text/css" href="estilos.css">
   <title>Menu</title>
 </head>
-<body>
+<body class="body">
 <h1 class="encabezado"> Menú principal usuarios </h1>
 <h2 class="subtitulo"> Registro Exitoso</h2>
 <br/>
-<form action="registroUsuario.jsp" method="get">
+<form action="registroUsuario.jsp" method="get" class="form">
   <div class="centrado">
     <input type="submit" value="Registrar usuario" class="boton">
   </div>

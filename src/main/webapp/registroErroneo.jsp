@@ -5,10 +5,10 @@
     <link rel="stylesheet" type="text/css" href="estilos.css">
     <title>Registro usuario</title>
 </head>
-<body>
+<body class="body">
 <h1 class="encabezado"> Registro usuario </h1>
 <h2 class="subtitulo"> Ha dejado espacios en blanco</h2>
-<form action="registroUsuario" method="post">
+<form action="registroUsuario" method="post" class="form">
     <div class="centrado">
         <label> Nombre: </label>
         <input name="nombre" type="text" class="campoTexto">

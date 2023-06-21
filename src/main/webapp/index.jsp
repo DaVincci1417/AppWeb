@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="estilos.css">
     <title>Menu</title>
 </head>
-<body>
+<body class="body">
 <h1 class="encabezado"> Menú principal usuarios </h1>
 <br/>
 <form action="registroUsuario.jsp" method="get">
